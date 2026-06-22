@@ -1,0 +1,14 @@
+# Python compilation caches
+__pycache__/
+*.pyc
+
+# Local system data and runtime logs
+app_log.txt
+analyzed_photo.jpg
+analyzed_skin_photo.jpg
+
+# Large Vector Databases & Environments
+faiss_index/
+.venv/
+venv/
+.env
